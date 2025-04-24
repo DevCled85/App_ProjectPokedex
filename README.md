@@ -17,10 +17,10 @@ Um app simples criado com Vue.js e Vite, que consome a PokéAPI e exibe uma list
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Vue.js](https://vuejs.org/)
-- [Vite](https://vitejs.dev/)
-- [Pinia](https://pinia.vuejs.org/) (gerenciamento de estado)
-- [PokéAPI](https://pokeapi.co/) (dados dos Pokémon)
+- [Vue.js](https://vuejs.org/) - Framework JavaScript progressivo
+- [Pinia](https://pinia.vuejs.org/) - Gerenciador de estado para Vue.js
+- [Vite](https://vitejs.dev/) - Ferramenta de build e desenvolvimento rápido
+- [PokéAPI](https://pokeapi.co/) - API pública de dados dos Pokémon
 
 ## ▶️ Como rodar o projeto
 
